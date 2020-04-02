@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d66a57-a16c-4547-91ac-c20535ca6146" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/kata/data/Params.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bootcamp/kata/data/Params.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/kata/data/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bootcamp/kata/data/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/kata/process/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bootcamp/kata/process/Processor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,26 +119,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="689" y="443" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585839899641" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1585841421341">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1585842692775">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.bottom/-141.-1057.1920.1057/0.23.1680.991@0.23.1680.991" timestamp="1585667793490" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585841421341" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1585841421340">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585842692775" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1585842692774">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.center/-141.-1057.1920.1057/0.23.1680.991@0.23.1680.991" timestamp="1585667793489" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585841421340" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1585841421340">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585842692774" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1585842692773">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.left/-141.-1057.1920.1057/0.23.1680.991@0.23.1680.991" timestamp="1585667793489" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585841421340" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1585841421341">
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585842692773" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1585842692775">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.right/-141.-1057.1920.1057/0.23.1680.991@0.23.1680.991" timestamp="1585667793489" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585841421341" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585842692775" />
     <state x="468" y="202" key="NewModule_or_Project.wizard" timestamp="1585666420319">
       <screen x="0" y="23" width="1680" height="991" />
     </state>
